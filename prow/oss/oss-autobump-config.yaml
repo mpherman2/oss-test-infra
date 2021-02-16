@@ -1,9 +1,8 @@
 ---
-gitHubLogin: "google-oss-robot"
-gitHubToken: "/etc/github-token/oauth"
-onCallAddress: "https://storage.googleapis.com/kubernetes-jenkins/oncall.json"
+gitHubLogin: "mpherman2"
+gitHubToken: "/usr/local/google/home/mpherman/token"
 skipPullRequest: false
-gitHubOrg: "GoogleCloudPlatform"
+gitHubOrg: "mpherman2"
 gitHubRepo: "oss-test-infra"
 remoteName: "oss-test-infra"
 headBranchName: "autobump-oss-prow"
